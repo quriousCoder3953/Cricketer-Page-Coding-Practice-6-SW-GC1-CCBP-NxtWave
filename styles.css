@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    font-family: Roboto;
+}
+
+.cricketer-top-section {
+    background-color: #fb4e71;
+    background-size: cover;
+    color: #ffffff;
+    padding: 12px;
+}
+
+
+
+.cricketer-top-section-name {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.cricketer-top-section-card-description {
+    font-size: 13px;
+}
+
+.cricketer-top-section-card-image {
+    height: 120px;
+    width: 80px;
+    margin-left: 10px;
+}
+
+.cricketer-bottom-section {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 500px;
+    padding: 10px;
+}
+
+.cricketer-bottom-section-main-heading {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+
+}
+
+.cricketer-bottom-section-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    margin: 5px;
+}
+
+.cricketer-ipl-records-text-container {
+    padding: 8px;
+}
+
+.cricketer-bottom-section-card-heading {
+    color: #323f4b;
+    font-size: 14px;
+
+}
+
+.cricketer-bottom-section-card-details {
+    color: #888888;
+    font-size: 14px;
+}
+
+.cricketer-video-text-container {
+    width: 96px;
+    margin: 5px;
+}
+
+.cricketer-video-description {
+    font-family: Roboto;
+    font-size: 12px;
+}
